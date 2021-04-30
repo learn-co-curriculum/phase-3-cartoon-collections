@@ -1,6 +1,6 @@
-## Cartoon Collections
+# Cartoon Collections Lab
 
-## Objectives
+## Learning Goals
 
 - Get familiar iterating through arrays with enumerator methods like
   `.collect` or `.map`, `.find`, and `.include?`.
@@ -128,5 +128,3 @@ value instead of printing it so keep that in mind.
 [ruby-doc]: http://ruby-doc.org/core/Array.html#method-i-map
 [arrays]: http://ruby-doc.org/core/Array.html
 [include]: http://ruby-doc.org/core/Array.html#method-i-include-3F
-
-
