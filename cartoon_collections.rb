@@ -10,8 +10,9 @@ def summon_captain_planet(arr)
   arr.map { |item| item.capitalize() + "!" }
 end
 
-def long_planeteer_calls# code an argument here
-  # Your code here
+def long_planeteer_calls(arr)
+  long_calls = arr.filter { |item| item.length > 4 }
+  !long_calls.empty?
 end
 
 def find_the_cheese# code an argument here
